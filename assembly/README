@@ -1,4 +1,4 @@
-This is an assembly module for Spark project.
+This is an assembly module for Spark project.asdasasda
 
 It creates a single tar.gz file that includes all needed dependency of the project
 except for org.apache.hadoop.* jars that are supposed to be available from the
